@@ -1,4 +1,5 @@
-[![GitHub issues](https://img.shields.io/github/issues/datawhalechina/easy-rl)](https://github.com/datawhalechina/easy-rl/issues) [![GitHub stars](https://img.shields.io/github/stars/datawhalechina/easy-rl)](https://github.com/datawhalechina/easy-rl/stargazers) [![GitHub forks](https://img.shields.io/github/forks/datawhalechina/easy-rl)](https://github.com/datawhalechina/easy-rl/network) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdatawhalechina%2Feasy-rl%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey" /></a>
+[![GitHub issues](https://img.shields.io/github/issues/datawhalechina/easy-rl)](https://github.com/datawhalechina/easy-rl/issues) [![GitHub stars](https://img.shields.io/github/stars/datawhalechina/easy-rl)](https://github.com/datawhalechina/easy-rl/stargazers) [![GitHub forks](https://img.shields.io/github/forks/datawhalechina/easy-rl)](https://github.com/datawhalechina/easy-rl/network) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdatawhalechina%2Feasy-rl%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) ![Downloads](https://img.shields.io/github/downloads/datawhalechina/easy-rl/total)
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey" /></a>
 
 
 # 蘑菇书EasyRL
@@ -17,23 +18,24 @@
 
 <img src="https://raw.githubusercontent.com/datawhalechina/easy-rl/master/docs/res/mogu.png" width="300">
 
-购买链接：[京东](https://item.jd.com/13075567.html) | [当当](http://product.dangdang.com/29374163.html)
+推荐购买链接：[京东](https://u.jd.com/tG2sxLb) | [当当](http://product.dangdang.com/29374163.html) 
 
 <table border="0">
   <tbody>
     <tr align="center" >
       <td>
-         <img width="120" height="120" src="https://raw.githubusercontent.com/datawhalechina/easy-rl/master/docs/res/qrcode_jingdong.png" alt="pic">
+         <img width="120" height="120" src="https://raw.githubusercontent.com/datawhalechina/easy-rl/master/docs/res/qrcode_jingdong.jpg" alt="pic">
         <br>
-        <p>京东扫码购买</p>
-      </td>
-      <td>
+        <p>推荐京东扫码购买</p>
+              </td>
+    <td>
     <img width="120" height="120" src="https://raw.githubusercontent.com/datawhalechina/easy-rl/master/docs/res/qrcode_dangdang.png" alt="pic"><br>
-        <p>当当扫码购买</p>
+    <p>当当扫码购买</p>
       </td>
     </tr>
   </tbody>
 </table>
+
 
 豆瓣评分：https://book.douban.com/subject/35781275/
 
